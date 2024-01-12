@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola, soy Natalia Espiniza 👋</h1>
+  <h1 align="center">Hola, soy Natalia Espinoza 👋</h1>
 </div>
 <img src="https://github.com/NataliaTechCode/NataliaTechCode/blob/main/portada.png?raw=true" alt="TuNombreImagen">
 
