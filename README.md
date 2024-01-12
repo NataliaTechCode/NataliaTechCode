@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy Natalia Espiniza 👋</h1>
 </div>
-<img src="https://www.adslzone.net/app/uploads-adslzone.net/2022/01/Github-portada.jpg" alt="TuNombreImagen">
+<img src="https://github.com/NataliaTechCode/NataliaTechCode/blob/main/05331045aee2a8e5142775d30365b88e-icono-de-silueta-de-apreton-de-manos.png?raw=true" alt="TuNombreImagen">
 
 ## Sobre mí
 
