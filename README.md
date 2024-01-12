@@ -1,8 +1,7 @@
 <div align="center">
-  <h1 align="center">Hola, soy Natalia Espinoza 👋</h1>
+  <h1 align="center">Hola, soy Natalia Espiniza 👋</h1>
 </div>
- <img src="[[https://i.imgur.com/weNbhGZ.png](https://www.adslzone.net/app/uploads-adslzone.net/2022/01/Github-portada-1200x675.jpg)](https://www.adslzone.net/app/uploads-adslzone.net/2022/01/Github-portada.jpg)" alt="TuNombreImagen">
-
+<img src="https://www.adslzone.net/app/uploads-adslzone.net/2022/01/Github-portada.jpg" alt="TuNombreImagen">
 
 ## Sobre mí
 
@@ -23,4 +22,11 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</div>
+
+## Aprendiendo
+
+<div align="center">
+  <img src="tu_enlace_imagen_aprendiendo.png" alt="Aprendiendo">
+</div>
 </div>
