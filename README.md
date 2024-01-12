@@ -1,7 +1,8 @@
 <div align="center">
   <h1 align="center">Hola, soy Natalia Espinoza 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+ <img src="[https://i.imgur.com/weNbhGZ.png](https://www.adslzone.net/app/uploads-adslzone.net/2022/01/Github-portada-1200x675.jpg)" alt="TuNombreImagen">
+
 
 ## Sobre mí
 
